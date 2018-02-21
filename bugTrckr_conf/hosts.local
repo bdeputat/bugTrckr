@@ -1,0 +1,6 @@
+192.168.56.150	db.local
+192.168.56.160	web.local
+192.168.56.170	jenkins.local
+192.168.56.180	sonar.local
+192.168.56.190	gitlab.local
+192.168.56.191	repo.local
